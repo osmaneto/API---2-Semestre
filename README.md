@@ -1,6 +1,8 @@
-# Projeto Template
+# Aprendizado por Projeto Integrado (API)
 
-Irei demonstrar como funciona e como montar um template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização correta da ferramenta GitHub. 
+Projeto voltado para o desenvolvimento de palmilhas ortopédicas personalizadas, utilizando tecnologia de ponta para análise de pisada, postura e conforto. Nosso objetivo é democratizar o acesso a soluções de saúde postural com qualidade e preço acessível.
+
+
 
 # Badges
 
@@ -136,4 +138,6 @@ Essas foram as referências utilizadas para realizar este projeto
 [Api 6°sem-GPI-2023/1](https://github.com/francinelemes1504/API-6-Semestre-2023)
 
 # Autores
-Andre Antunes | [Perfil](https://www.linkedin.com/in/andre-antunes-1876b41b0/)
+|Scrum Master| Osmã Neto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product OWNER| Rafael Farias | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Larissa Estevam | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
