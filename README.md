@@ -25,8 +25,9 @@ Projeto voltado para o desenvolvimento de palmilhas ortopédicas personalizadas,
 * [Autores](#autores)
 
 # Equipe
-![Equipe](![Uploading Captura de tela 2025-04-21 145952.png…]()
+![Projeto Integrador gpi]![Captura de tela 2025-04-21 145952](https://github.com/user-attachments/assets/89d0f207-81f3-475d-9aca-14ef34a501e9)
 )
+
 
 # Objetivo do Projeto
 O objetivo deste projeto é desenvolver uma palmilha ortopédica personalizada, acessível e de alta qualidade, utilizando tecnologias modernas como análise biomecânica, escaneamento 3D e materiais ergonômicos. Buscamos oferecer uma solução eficaz para correção postural, alívio de dores e melhoria da qualidade de vida de nossos usuários, tornando o cuidado com a saúde dos pés algo acessível para todos.
