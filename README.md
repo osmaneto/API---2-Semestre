@@ -34,9 +34,6 @@ Nosso foco é unir inovação e bem-estar, criando um produto inteligente, funci
 
 # Funcionalidades e Demonstração da Aplicação
 
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 
 ## Tecnologias Utilizadas
