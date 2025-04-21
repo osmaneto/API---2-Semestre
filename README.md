@@ -51,42 +51,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma do Projeto[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 ## Sprint 1. Desenvolvimento
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Pesquisa de Mercado;
+- [x] Requisitos do Produto;
+- [x] Normas técnicas e patentes;
+- [x] Benchmarking de mercado;
+- [x] Demais informações do Produto;
 
 
-## Sprint 2. Divulgação
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 2. Conceitual
+- [ ] Levantamento de Conceitos;
+- [ ] Análise funcional;
+- [ ] Cartas morfológicas;
+- [ ] Tomada de decisão estruturada;
 
 
-# Disciplinas relacionadas
-Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse projeto
-<details>
-<summary>Disciplinas utilizadas</summary>
- 
-- Processos de Produção
-  - breve resumo na relação da disciplina com o trabalho
-- Gestão de Pessoas
-  - breve resumo na relação da disciplina com o trabalho
-- Projeto de Fábrica
-  - breve resumo na relação da disciplina com o trabalho
-- Tecnologia da Informação Aplicada à Gestão de Operações e Processos
-  - breve resumo na relação da disciplina com o trabalho
-- Gestão da Produção Aplicada
-  - breve resumo na relação da disciplina com o trabalho
- 
-</details>
+
 
 # Competências desenvolvidas
 
@@ -133,5 +112,5 @@ Essas foram as referências utilizadas para realizar este projeto
 
 # Autores
 |Scrum Master| Osmã Neto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Product OWNER| Rafael Farias | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Rafael Farias | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Larissa Estevam | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
