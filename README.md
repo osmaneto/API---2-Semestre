@@ -42,8 +42,8 @@ Nosso foco é unir inovação e bem-estar, criando um produto inteligente, funci
   - GitHub
   - Power Point
   - Excel
-  - Planner
-  - Power BI
+  - CANVA
+  - IA´s
 
 # Plano de Entregas
 
