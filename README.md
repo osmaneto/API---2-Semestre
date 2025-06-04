@@ -61,10 +61,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 2. Conceitual
-- [ ] Levantamento de Conceitos;
-- [ ] Análise funcional;
-- [ ] Cartas morfológicas;
-- [ ] Tomada de decisão estruturada;
+- [x] Levantamento de Conceitos;
+- [x] Análise funcional;
+- [x] Cartas morfológicas;
+- [x] Tomada de decisão estruturada;
 
 
 
