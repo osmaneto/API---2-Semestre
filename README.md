@@ -66,6 +66,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Cartas morfológicas;
 - [x] Tomada de decisão estruturada;
 
+   ## Sprint 3. Detalhado
+- [x] Dimensionamento;
+- [x] Projeto detalhado do produto;
+- [x] Matérias Primas;
+- [x] Definição de processos e tratamentos;
+
 
 
 
